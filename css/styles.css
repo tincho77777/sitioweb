@@ -1,0 +1,11 @@
+/* Pie de pagina*/
+footer {
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    position:fixed;
+}
+
+.left{
+    float: right;
+}
